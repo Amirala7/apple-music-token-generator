@@ -13,7 +13,7 @@ Once you have your .p8 file ready, you can go ahead with the following steps.
 
 Just run the steps in the colab and get your JWT token.
 
-https://colab.research.google.com/github/Amirala7/apple-music-token-generator/blob/master/token_generator.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Amirala7/apple-music-token-generator/blob/master/token_generator.ipynb]
 
 It will ask you the private key, team Id and Key Id and then deliver a JWT token for communcating with the Apple Music API.
 
